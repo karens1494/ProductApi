@@ -1,6 +1,16 @@
 # Product API
 CRUD Básico de productos
 
+## Configuración Básica
+
+Cambiar la cadena de conexión a la base de datos en el archivo de appsettings.json del proyecto ChallengeDevDir.Api, para que apunte a su Base de Datos.
+
+     {
+        "ConnectionStrings": {
+           "Conexion": "Server=KAREN-SUAREZ\\SQLEXPRESS;Database=DB_Inventario;Integrated Security=true"
+         },
+     }
+     
 ## Obtener Lista de Productos
 
 ### Request
