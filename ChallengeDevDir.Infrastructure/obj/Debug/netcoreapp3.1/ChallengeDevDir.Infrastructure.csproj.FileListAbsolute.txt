@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\bin\Debug\netcoreapp3.1\ChallengeDevDir.Infrastructure.deps.json
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\bin\Debug\netcoreapp3.1\ChallengeDevDir.Infrastructure.runtimeconfig.json
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\bin\Debug\netcoreapp3.1\ChallengeDevDir.Infrastructure.runtimeconfig.dev.json
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\bin\Debug\netcoreapp3.1\ChallengeDevDir.Infrastructure.dll
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\bin\Debug\netcoreapp3.1\ChallengeDevDir.Infrastructure.pdb
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\obj\Debug\netcoreapp3.1\ChallengeDevDir.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\obj\Debug\netcoreapp3.1\ChallengeDevDir.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\obj\Debug\netcoreapp3.1\ChallengeDevDir.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\obj\Debug\netcoreapp3.1\ChallengeDevDir.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\obj\Debug\netcoreapp3.1\ChallengeDevDir.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\obj\Debug\netcoreapp3.1\ChallengeDevDir.Infrastructure.dll
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\obj\Debug\netcoreapp3.1\ChallengeDevDir.Infrastructure.pdb
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\obj\Debug\netcoreapp3.1\ChallengeDevDir.Infrastructure.genruntimeconfig.cache
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\bin\Debug\netcoreapp3.1\ChallengeDevDir.Core.dll
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\bin\Debug\netcoreapp3.1\ChallengeDevDir.Core.pdb
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Infrastructure\obj\Debug\netcoreapp3.1\ChallengeDevDir.Infrastructure.csproj.CopyComplete

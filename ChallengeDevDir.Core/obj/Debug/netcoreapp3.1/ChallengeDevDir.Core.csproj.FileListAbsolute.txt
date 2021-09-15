@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Core\bin\Debug\netcoreapp3.1\ChallengeDevDir.Core.deps.json
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Core\bin\Debug\netcoreapp3.1\ChallengeDevDir.Core.dll
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Core\bin\Debug\netcoreapp3.1\ChallengeDevDir.Core.pdb
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Core\obj\Debug\netcoreapp3.1\ChallengeDevDir.Core.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Core\obj\Debug\netcoreapp3.1\ChallengeDevDir.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Core\obj\Debug\netcoreapp3.1\ChallengeDevDir.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Core\obj\Debug\netcoreapp3.1\ChallengeDevDir.Core.AssemblyInfo.cs
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Core\obj\Debug\netcoreapp3.1\ChallengeDevDir.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Core\obj\Debug\netcoreapp3.1\ChallengeDevDir.Core.dll
+C:\Users\HP\Documents\ChallengeDevDir\ChallengeDevDir.Core\obj\Debug\netcoreapp3.1\ChallengeDevDir.Core.pdb
